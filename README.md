@@ -13,7 +13,8 @@
 
 ## Usage
 
-### Configure parameters in the code:  
+### Configure parameters in the code: 
+`BASE_DIR`:  Base directory for downloads and outputs  
 `INPUT_FLAT_FILE`: Path to the input CSV file   
 `XML_DIRECTORY`: Directory where XML files will be exported  
 `XML_ZIP_FILE`: Path to the output zip archive.   
